@@ -12,18 +12,14 @@ class ListNode:
 
 
 class Solution:
-    def removeElements(self, head, val: int):
-        curr, prev = head, None
+    def reverseList(self, head):
+        prev, curr = None, head
         while curr:
-            if curr.val == val:
-                if prev:
-                    prev.next = curr.next
-                else:
-                    head = curr.next
-            else:
-                prev = curr
-            curr = curr.next
-        return head
+            next = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next
+        return prev
 
 
 count_elems = 10
@@ -34,4 +30,5 @@ for elem in range(count_elems):
 
 next_elem.printList()
 print()
-Solution.removeElements(Solution, next_elem, 1).printList()
+Solution.reverseList(Solution, next_elem).printList()
+
