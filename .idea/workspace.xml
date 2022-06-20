@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/206-ReverseLinkedList/206-ReverseLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/206-ReverseLinkedList/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/217-ContainsDuplicate/217-ContainsDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/217-ContainsDuplicate/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/225-ImplementStackusingQueues/225-ImplementStackusingQueues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/225-ImplementStackusingQueues/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/226-InvertBinaryTree/226-InvertBinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/226-InvertBinaryTree/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/test/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/test/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/228-SummaryRanges/228-SummaryRanges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/228-SummaryRanges/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/231-PowerofTwo/231-PowerofTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/231-PowerofTwo/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/234-PalindromeLinkedList/234-PalindromeLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/234-PalindromeLinkedList/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree/235-LowestCommonAncestorofaBinarySearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/test/artemm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/203-RemoveLinkedListElements/203-RemoveLinkedListElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/203-RemoveLinkedListElements/203-RemoveLinkedListElements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +42,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/226-InvertBinaryTree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree" />
+      <recent name="$PROJECT_DIR$/srcs/234-PalindromeLinkedList" />
+      <recent name="$PROJECT_DIR$/srcs/231-PowerofTwo" />
+      <recent name="$PROJECT_DIR$/srcs/228-SummaryRanges" />
       <recent name="$PROJECT_DIR$/srcs/226-InvertBinaryTree" />
-      <recent name="$PROJECT_DIR$/srcs/225-ImplementStackusingQueues" />
-      <recent name="$PROJECT_DIR$/srcs/217-ContainsDuplicate" />
-      <recent name="$PROJECT_DIR$/srcs/206-ReverseLinkedList" />
-      <recent name="$PROJECT_DIR$/srcs/203-RemoveLinkedListElements" />
     </key>
   </component>
   <component name="RunManager">
