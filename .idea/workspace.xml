@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/228-SummaryRanges/228-SummaryRanges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/228-SummaryRanges/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/231-PowerofTwo/231-PowerofTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/231-PowerofTwo/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/234-PalindromeLinkedList/234-PalindromeLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/234-PalindromeLinkedList/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree/235-LowestCommonAncestorofaBinarySearchTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/test/artemm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/237-DeleteNodeinaLinkedList/237-DeleteNodeinaLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/242-ValidAnagram/242-ValidAnagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/242-ValidAnagram/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/257-BinaryTreePaths/257-BinaryTreePaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/257-BinaryTreePaths/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/258-AddDigits/258-AddDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/258-AddDigits/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/263-UglyNumber/263-UglyNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/268-MissingNumber/268-MissingNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree/235-LowestCommonAncestorofaBinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree/235-LowestCommonAncestorofaBinarySearchTree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +43,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/258-AddDigits" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/258-AddDigits" />
+      <recent name="$PROJECT_DIR$/srcs/257-BinaryTreePaths" />
       <recent name="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree" />
       <recent name="$PROJECT_DIR$/srcs/234-PalindromeLinkedList" />
       <recent name="$PROJECT_DIR$/srcs/231-PowerofTwo" />
-      <recent name="$PROJECT_DIR$/srcs/228-SummaryRanges" />
-      <recent name="$PROJECT_DIR$/srcs/226-InvertBinaryTree" />
     </key>
   </component>
   <component name="RunManager">

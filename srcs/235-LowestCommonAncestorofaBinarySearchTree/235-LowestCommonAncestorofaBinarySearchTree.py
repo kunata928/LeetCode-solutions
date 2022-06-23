@@ -6,12 +6,12 @@ class TreeNode:
         self.right = right
 
     def printTree(self):
-
         if not self:
             return None
         print(self.val)
         TreeNode.printTree(self.left)
         TreeNode.printTree(self.right)
+
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode'):
