@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/283-MoveZeroes/283-MoveZeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/283-MoveZeroes/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/290-WordPattern/290-WordPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/290-WordPattern/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/test/serega.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/326-PowerofThree/326-PowerofThree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/326-PowerofThree/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/290-WordPattern/290-WordPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/290-WordPattern/290-WordPattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
