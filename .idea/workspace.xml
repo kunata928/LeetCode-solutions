@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/326-PowerofThree/326-PowerofThree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/326-PowerofThree/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/338-CountingBits/338-CountingBits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/338-CountingBits/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/344-ReverseString/344-ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/344-ReverseString/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/345-ReverseVowelsofaString/345-ReverseVowelsofaString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/345-ReverseVowelsofaString/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/290-WordPattern/290-WordPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/290-WordPattern/290-WordPattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
