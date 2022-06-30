@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/338-CountingBits/338-CountingBits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/338-CountingBits/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/344-ReverseString/344-ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/344-ReverseString/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/345-ReverseVowelsofaString/345-ReverseVowelsofaString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/345-ReverseVowelsofaString/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/349-IntersectionofTwoArrays/349-IntersectionofTwoArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/349-IntersectionofTwoArrays/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/350-IntersectionofTwoArraysII/350-IntersectionofTwoArraysII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/350-IntersectionofTwoArraysII/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/367-ValidPerfectSquare/367-ValidPerfectSquare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/367-ValidPerfectSquare/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
