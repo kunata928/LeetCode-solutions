@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/349-IntersectionofTwoArrays/349-IntersectionofTwoArrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/349-IntersectionofTwoArrays/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/350-IntersectionofTwoArraysII/350-IntersectionofTwoArraysII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/350-IntersectionofTwoArraysII/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/367-ValidPerfectSquare/367-ValidPerfectSquare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/367-ValidPerfectSquare/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/383-RansomNote/383-RansomNote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/383-RansomNote/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/387-FirstUniqueCharacterinaString/387-FirstUniqueCharacterinaString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/387-FirstUniqueCharacterinaString/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/389-FindtheDifference/389-FindtheDifference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/389-FindtheDifference/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,9 @@
       <recent name="$PROJECT_DIR$/srcs/257-BinaryTreePaths" />
       <recent name="$PROJECT_DIR$/srcs/235-LowestCommonAncestorofaBinarySearchTree" />
       <recent name="$PROJECT_DIR$/srcs/234-PalindromeLinkedList" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/part_I" />
     </key>
   </component>
   <component name="RunManager">
