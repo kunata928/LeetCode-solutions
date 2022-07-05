@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/383-RansomNote/383-RansomNote.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/383-RansomNote/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/387-FirstUniqueCharacterinaString/387-FirstUniqueCharacterinaString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/387-FirstUniqueCharacterinaString/problem describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/389-FindtheDifference/389-FindtheDifference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/389-FindtheDifference/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/404-SumofLeftLeaves/404-SumofLeftLeaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/404-SumofLeftLeaves/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/part_II/392-IsSubsequence/392-IsSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/part_II/392-IsSubsequence/392-IsSubsequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
