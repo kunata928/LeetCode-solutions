@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/405-ConvertaNumbertoHexadecimal/405-ConvertaNumbertoHexadecimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/405-ConvertaNumbertoHexadecimal/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/part_II/404-SumofLeftLeaves/404-SumofLeftLeaves.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/part_II/404-SumofLeftLeaves/404-SumofLeftLeaves.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
