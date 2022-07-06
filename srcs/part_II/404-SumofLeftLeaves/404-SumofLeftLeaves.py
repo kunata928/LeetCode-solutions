@@ -13,8 +13,13 @@ class TreeNode:
 
 
 class Solution:
-    def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
-        pass
+    def sumOfLeftLeaves(self, root):
+        if not root:
+            return 0
+        if root.left and not root.left.left and not root.left.right:
+            return root.left.val + self.sumOfLeftLeaves(self, root.right)
+        else:
+            return self.sumOfLeftLeaves(self, root.left) + self.sumOfLeftLeaves(self, root.right)
 
 
 node1 = TreeNode(1, None, None)
@@ -27,8 +32,7 @@ root = TreeNode(7, node3, node6)
 
 root.printTree()
 print()
-head = Solution.invertTree1(Solution, root)
-head.printTree()
+print(Solution.sumOfLeftLeaves(Solution, root))
 
 #       7
 #    3      6
