@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a7de1c-ba2c-4301-ac46-cd0c82425c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/409-LongestPalindrome/409-LongestPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/part_II/409-LongestPalindrome/problem describe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/412-FizzBuzz/412-FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/part_II/412-FizzBuzz/problem describe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/part_II/409-LongestPalindrome/409-LongestPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/part_II/409-LongestPalindrome/409-LongestPalindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

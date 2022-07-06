@@ -14,6 +14,18 @@ class Solution:
                 max_odd = 1
         return res + max_odd
 
+    def longestPalindrome1(self, s):
+        ss = set()
+        for letter in s:
+            if letter not in ss:
+                ss.add(letter)
+            else:
+                ss.remove(letter)
+        if len(ss) != 0:
+            return len(s) - len(ss) + 1
+        else:
+            return len(s)
+
 
 strs = [
 "civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth"
@@ -23,6 +35,6 @@ strs = [
     # "aaaabbbccd"
 ]
 for s in strs:
-    print(s, Solution.longestPalindrome(Solution, s))
+    print(s, Solution.longestPalindrome1(Solution, s))
 
 #len include all even letters and len odd letter - 1 (and extra 1, if odd exist)
